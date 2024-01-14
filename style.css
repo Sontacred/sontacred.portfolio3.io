@@ -1,12 +1,11 @@
 body{
-    background: url(https://images5.alphacoders.com/130/1308038.jpeg);
+    background-color: #101010;
     background-size: 100%;
-    background-position: ;
 }
 
 .container {
-    width: 500px;
-    height: 300px;
+    width: 1500px;
+    height: 800px;
     margin: 50px auto;
 }
 
@@ -18,3 +17,8 @@ body{
     border:1px solid rgba(255, 255, 255, 0.18);
     box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
 }
+
+aside{
+    float: right;
+}
+
